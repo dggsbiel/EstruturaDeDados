@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+//Comentarios para entender melhor
 // Definição da estrutura de um nó (parada de ônibus)
 typedef struct No {
     char nome[100];
